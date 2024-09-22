@@ -30,9 +30,9 @@ const Navbar = () => {
             </a>
           </li>
           <li>
-            <a href="#" className="transition-all hover:text-secondery">
+            <Link to="/blog" className="transition-all hover:text-secondery">
               Blog
-            </a>
+            </Link>
           </li>
         </ul>
       </div>
